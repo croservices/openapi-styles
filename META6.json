@@ -1,21 +1,21 @@
 {
-  "authors" : [
-    "Altai-man"
-  ],
-  "description" : "serialize and deserialize OpenAPI style-formatted values.",
-  "license" : "GPL-3.0",
-  "meta-version" : "0",
-  "name" : "OpenAPI::Styles",
-  "perl" : "6.c",
-  "provides" : {
-    "OpenAPI::Styles" : "lib/OpenAPI/Styles.pm6"
-  },
-  "source-url" : "",
-  "support" : {
-    "source" : null
-  },
-  "test-depends" : [
-    "Test::META"
-  ],
-  "version" : "1.0"
+    "authors" : [
+        "Altai-man"
+    ],
+    "description" : "serialize and deserialize OpenAPI style-formatted values.",
+    "license" : "GPL-3.0",
+    "meta-version" : "0",
+    "name" : "OpenAPI::Styles",
+    "perl" : "6.c",
+    "provides" : {
+        "OpenAPI::Styles" : "lib/OpenAPI/Styles.pm6"
+    },
+    "source-url" : "",
+    "support" : {
+        "source" : null
+    },
+    "test-depends" : [
+        "Test::META"
+    ],
+    "version" : "1.0"
 }
