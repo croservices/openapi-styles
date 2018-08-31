@@ -1,21 +1,18 @@
 {
+    "name" : "OpenAPI::Styles",
+    "description" : "serialize and deserialize OpenAPI style-formatted values.",
+    "perl" : "6.c",
     "authors" : [
         "Altai-man"
     ],
-    "description" : "serialize and deserialize OpenAPI style-formatted values.",
-    "license" : "GPL-3.0",
+    "license" : "Artistic-2.0",
     "meta-version" : "0",
-    "name" : "OpenAPI::Styles",
-    "perl" : "6.c",
     "provides" : {
         "OpenAPI::Styles" : "lib/OpenAPI/Styles.pm6"
     },
-    "source-url" : "",
+    "source-url" : "https://github.com/croservices/openapi-styles.git",
     "support" : {
-        "source" : null
+        "source" : "https://github.com/croservices/openapi-styles.git"
     },
-    "test-depends" : [
-        "Test::META"
-    ],
     "version" : "1.0"
 }
