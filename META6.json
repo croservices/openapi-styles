@@ -3,7 +3,7 @@
     "description" : "serialize and deserialize OpenAPI style-formatted values.",
     "perl" : "6.c",
     "authors" : [
-        "Altai-man"
+        "Alexander Kiryuhin"
     ],
     "license" : "Artistic-2.0",
     "meta-version" : "0",
